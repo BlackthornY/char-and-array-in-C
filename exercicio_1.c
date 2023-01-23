@@ -1,4 +1,4 @@
-/* 1. Desenvolva uma função responsável por obter o tamanho de uma cadeia de caracteres */
+/* 1. Desenvolva uma função responsável por obter o tamanho de uma cadeia de caracteres.*/
 
 #include <stdio.h>
 #define tam 30
@@ -17,6 +17,8 @@ int main() //ALGORITMO PRINCIPAL
     tamanho_cadeia = tamanho(frase);
 
     printf("O tamanho da cadeia de caracteres : %d ",tamanho_cadeia);
+
+    return 0;
 
 }
 
